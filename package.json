@@ -1,0 +1,28 @@
+{
+  "name": "url-preview",
+  "version": "1.0.0",
+  "description": "Shows url url-preview using the preview of the page",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhansa/url-preview.git"
+  },
+  "author": "bhansa <bsaraswat45@gmail.com> (https://github.com/bhansa)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bhansa/url-preview/issues"
+  },
+  "homepage": "https://github.com/LevelNewsOrg/url-preview#readme",
+  "keywords": [
+    "url",
+    "preview",
+    "metatags",
+    "meta",
+    "tags",
+    "js",
+    "og",
+    "open graph"
+  ],
+  "dependencies": {
+    "request": "^2.88.0"
+  }
